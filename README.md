@@ -136,7 +136,7 @@ ALTER TABLE pizza_sales MODIFY total_price DECIMAL(10, 2);
 ```
 ### 3.3 Data Normalization
 A database design was created to standardise data understanding and usage across all teams and departments:
-[Plato's database design](database_design).
+[Plato's database design](/Plato's%20Pizza%20Database.pdf).
 
 ![alt text](assets/pizza_dbdiagram.png)
 
